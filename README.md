@@ -1,0 +1,4 @@
+# robot-navigation-using-lrta-star
+
+The main objective of the project is to simulate online point robot navigation using Learning Real Time A* algorithm and basic Hill climbing algorithm. The LRTA* algorithm is a variation of the Hill-climbing algorithm for online local search [Hill climbing with memory]. The result will display the path of the robot from start position to the goal position after the successful execution of the LRTA* algorithm. The robot is represented as a point.
+The online simulation has a Graphical User Display, where the user can interactively select the start position for the robot, the goal positions and the obstacles in the environment. The user can input the options as per the instructions on the GUI to choose the algorithm to be executed [LRTA* and/or Hill Climbing].
